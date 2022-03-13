@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "crusade:mauvestone"
+  },
+  "result": "crusade:mauvestone_stairs",
+  "count": 1
+}

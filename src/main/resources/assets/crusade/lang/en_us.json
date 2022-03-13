@@ -1,0 +1,27 @@
+{
+
+  "block.crusade.mavistone": "Mavistone",
+  "block.crusade.mavistone_stairs": "Mavistone Stairs",
+  "block.crusade.mavistone_slab": "Mavistone Slab",
+  "block.crusade.polished_mavistone": "Polished Mavistone",
+  "block.crusade.polished_mavistone_stairs": "Polished Mavistone Stairs",
+  "block.crusade.polished_mavistone_slab": "Polished Mavistone Slab",
+  "block.crusade.mauvestone": "Mauvestone",
+  "block.crusade.mauvestone_stairs": "Mauvestone Stairs",
+  "block.crusade.mauvestone_slab": "Mauvestone Slab",
+  "block.crusade.bronze_ore": "Bronze Ore",
+  "block.crusade.bolt_conductor": "Bolt Conductor",
+
+  "item.crusade.amethyst_orb": "Amethyst Orb",
+  "item.crusade.raw_bronze": "Raw Bronze",
+  "item.crusade.bronze_ingot": "Bronze Ingot",
+  "item.crusade.dynamite": "Dynamite",
+
+  "itemGroup.crusade.crusade": "Crusade",
+
+  "advancements.crusade.make_bolt_conductor.title": "The Power of the Clouds",
+  "advancements.crusade.make_bolt_conductor.description": "Get your hands on a Bolt Conductor",
+  "advancements.crusade.root.title": "Crusade",
+  "advancements.crusade.root.description": "Hope you enjoy!"
+
+}

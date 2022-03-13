@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:story/lava_bucket",
+  "display": {
+    "icon": {
+      "item": "crusade:bolt_conductor"
+    },
+    "title": {
+      "translate": "advancements.crusade.make_bolt_conductor.title"
+    },
+    "description": {
+      "translate": "advancements.crusade.make_bolt_conductor.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obsidian": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "crusade:bolt_conductor"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "obsidian"
+    ]
+  ]
+}

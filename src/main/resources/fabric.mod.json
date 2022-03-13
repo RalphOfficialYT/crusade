@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "crusade",
+  "version": "${version}",
+
+  "name": "Crusade",
+  "description": "Adds some stuff ig.",
+  "authors": [
+    "RalphOfficial"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC BY NC-SA 3.0",
+  "icon": "assets/crusade/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ralphofficial.crusade.mod.MainClass"
+    ],
+    "client": [
+      "ralphofficial.crusade.mod.MainClientClass"
+    ]
+  },
+  "mixins": [
+    "crusade.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

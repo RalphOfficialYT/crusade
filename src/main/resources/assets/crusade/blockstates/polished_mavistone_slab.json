@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crusade:block/polished_mavistone_slab"
+    },
+    "type=double": {
+      "model": "crusade:block/polished_mavistone"
+    },
+    "type=top": {
+      "model": "crusade:block/polished_mavistone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "crusade:block/mauvestone",
+    "top": "crusade:block/mauvestone",
+    "side": "crusade:block/mauvestone"
+  }
+}

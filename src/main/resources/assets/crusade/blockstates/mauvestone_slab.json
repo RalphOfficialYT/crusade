@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crusade:block/mauvestone_slab"
+    },
+    "type=double": {
+      "model": "crusade:block/mauvestone"
+    },
+    "type=top": {
+      "model": "crusade:block/mauvestone_slab_top"
+    }
+  }
+}

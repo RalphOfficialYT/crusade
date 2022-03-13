@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crusade:polished_mavistone"
+    }
+  },
+  "result": {
+    "item": "crusade:polished_mavistone_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "crusade:bolt_conductor",
+    "crusade:mauvestone",
+    "crusade:mavistone",
+    "crusade:bronze_ore"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crusade:mauvestone"
+    }
+  },
+  "result": {
+    "item": "crusade:mauvestone_stairs",
+    "count": 4
+  }
+}

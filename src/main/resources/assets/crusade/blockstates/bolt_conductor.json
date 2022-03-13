@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "charged=false": {
+      "model": "crusade:block/bolt_conductor"
+    },
+    "charged=true": {
+      "model": "crusade:block/bolt_conductor_charged"
+    }
+  }
+}
